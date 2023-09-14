@@ -2,7 +2,7 @@ import { Menu } from '@headlessui/react'
 import { Icon } from 'Icons';
 function Auth() {
     const user = {
-        name: 'Fidan Abdulla',
+        name: 'Mariam Meerza',
         avatar: 'https://i.pinimg.com/originals/c7/81/e8/c781e85fedc1741cb784e26dccd69027.jpg'
     }
     return (
